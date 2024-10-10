@@ -1,0 +1,550 @@
+ {
+    "prdList1":[
+        {
+            "thumb":"./asset/img/b1.jpg",
+            "title":"3YD ONE-STRAP",
+            "price":{
+                "sale":36,
+                "curr":54000
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b2.jpg",
+            "title":"SL01 섬머 데님 와이드 팬츠 (FADE LIGHT BLUE)",
+            "price":{
+                "sale":30,
+                "curr":34300
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b3.jpg",
+            "title":"MINIMAL CLASSIC HALF DENIM SHIRTS_BLUE",
+            "price":{
+                "sale":62,
+                "curr":36800
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b4.jpg",
+            "title":"1YD XSLIDE",
+            "price":{
+                "sale":38,
+                "curr":49000
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b5.jpg",
+            "title":"WASHED POLO SHORT SLEEVE T-SHIRT NAVY",
+            "price":{
+                "sale":20,
+                "curr":102400
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b6.png",
+            "title":"베이직 피케 폴로 반팔 티셔츠 멜란지 아이보리",
+            "price":{
+                "sale":15,
+                "curr":84150
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b7.jpg",
+            "title":"Lovely Stitch Denim Shorts - 3COL",
+            "price":{
+                "sale":32,
+                "curr":39440
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b8.jpg",
+            "title":"[SET] 리매치 + 노미네이츠 피그먼트 반팔티셔츠 (KMST6781+SHST6789)",
+            "price":{
+                "sale":64,
+                "curr":34500
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b9.jpg",
+            "title":"쿨 린넨 투턱 링클프리 와이드 밴딩 팬츠 [블랙]",
+            "price":{
+                "sale":26,
+                "curr":49600
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b10.jpg",
+            "title":"[2PACK] 워크 오버핏 카라 반팔티셔츠 SOST2568",
+            "price":{
+                "sale":56,
+                "curr":36800
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b11.jpg",
+            "title":"HARD TWIST HOLIDAY POLO KNIT [IVORY STRIPE]",
+            "price":{
+                "sale":11,
+                "curr":70310
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b12.jpg",
+            "title":"오가닉 코튼 슬리브리스 (2COLOR)",
+            "price":{
+                "sale":20,
+                "curr":32800
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b13.jpg",
+            "title":"[Set-Up]시어 프릴 후디드 윈드브레이커+펀칭 쇼츠_Pure White",
+            "price":{
+                "sale":43,
+                "curr":84900
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b14.jpg",
+            "title":"PROVINCE EYELET PANTS (CREAM BLOOM)",
+            "price":{
+                "sale":10,
+                "curr":85500
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b15.jpg",
+            "title":"[2PACK] 턴 다잉 라이크린넨 밴딩팬츠 2PACK JNLP7717",
+            "price":{
+                "sale":45,
+                "curr":53900
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/b16.jpg",
+            "title":"브리즈 카고 하프데님팬츠 (2color)",
+            "price":{
+                "sale":40,
+                "curr":259000
+            }
+
+
+        }
+    ],
+    "prdList2":[
+        {
+            "thumb":"./asset/img/m1.jpg",
+            "title":"[WITH CTR] 플리츠 하이브리드 숄더 크로스백",
+            "price":{
+                "sale":20,
+                "curr":78400
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m2.jpg",
+            "title":"SORANO Vintage Pigment T-shrits [2Color]",
+            "price":{
+                "sale":39,
+                "curr":42000
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m3.jpg",
+            "title":"웰 라이프 링거 크롭 숏 슬리브 2 color",
+            "price":{
+                "sale":20,
+                "curr":30600
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m4.jpg",
+            "title":"[WITH CTR] 플리츠 하이브리드 토트 숄더백",
+            "price":{
+                "sale":20,
+                "curr":94400
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m5.jpg",
+            "title":"Answer Key Half T - B.SKY",
+            "price":{
+                "sale":20,
+                "curr":47200
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m6.jpg",
+            "title":"유틸리티 버뮤다 워싱 코튼 쇼츠 (SAND BEIGE)",
+            "price":{
+                "sale":38,
+                "curr":29900
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m7.jpg",
+            "title":"블러리 로고 반팔티셔츠 [나그랑 브라운]",
+            "price":{
+                "sale":30,
+                "curr":31500
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m8.jpg",
+            "title":"블러리 로고 반팔티셔츠 [나그랑 차콜]",
+            "price":{
+                "sale":30,
+                "curr":31500
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m9.png",
+            "title":"ARMED 테이프 메쉬 오버핏 T-SHIRT [화이트]",
+            "price":{
+                "sale":15,
+                "curr":46325
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m10.png",
+            "title":"ARMED 테이프 메쉬 오버핏 T-SHIRT [블랙]",
+            "price":{
+                "sale":15,
+                "curr":46325
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m12.png",
+            "title":"ARMED 스티치 오버핏 T-SHIRT [블랙/옐로]",
+            "price":{
+                "sale":15,
+                "curr":46325
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m11.png",
+            "title":"ARMED 스티치 오버핏 T-SHIRT [화이트/블루]",
+            "price":{
+                "sale":15,
+                "curr":46325
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m13.png",
+            "title":"ARMED 스티치 오버핏 T-SHIRT [블랙/레드]",
+            "price":{
+                "sale":15,
+                "curr":46325
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m14.jpg",
+            "title":"RAINBOOTS Hududuk 5Color 미들 레인부츠 4Cm",
+            "price":{
+                "sale":15,
+                "curr":84150
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m15.jpg",
+            "title":"HiNi 3Color 코튼믹스 니삭스 양말",
+            "price":{
+                "sale":20,
+                "curr":16000
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/m16.jpg",
+            "title":"웰 스펜트 티셔츠 [블랙]",
+            "price":{
+                "sale":20,
+                "curr":44800
+            }
+
+
+        }
+
+    ],
+    "prdList3":[
+        {
+            "thumb":"./asset/img/h01.jpg",
+            "title":"[2PACK][여름원단]Semi Wide Jeans DCPT003",
+            "price":{
+                "sale":60,
+                "curr":47200
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/h02.jpg",
+            "title":"FLY OVER FLIP FLOP BLACK",
+            "price":{
+                "sale":53,
+                "curr":37000
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/h04.jpg",
+            "title":"CLASSIC LOGO RAIN BOOTS MID black",
+            "price":{
+                "sale":20,
+                "curr":111200
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/h05.jpg",
+            "title":"[SET] 리매치 + 노미네이츠 피그먼트 반팔티셔츠 (KMST6781+SHST6789)",
+            "price":{
+                "sale":64,
+                "curr":34500
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/h06.jpg",
+            "title":"키홀 피그먼트 숏슬리브 티셔츠 [BEIGE]_SETS034BEIGE",
+            "price":{
+                "sale":84,
+                "curr":9800
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/h07.jpg",
+            "title":"(써머ver.)오버핏 체크 후드 하프 셔츠 [BURGUNDY]_SESH013BURGUNDY",
+            "price":{
+                "sale":50,
+                "curr":35800
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/h04.jpg",
+            "title":"CLASSIC LOGO RAIN BOOTS MID black",
+            "price":{
+                "sale":20,
+                "curr":111200
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/h08.jpg",
+            "title":"아톰 SL 베스트 남성 - BLACK / ATOSMX4849",
+            "price":{
+                "sale":20,
+                "curr":224000
+            }
+
+
+        },
+        {
+            "thumb":"./asset/img/h05.jpg",
+            "title":"[SET] 리매치 + 노미네이츠 피그먼트 반팔티셔츠 (KMST6781+SHST6789)",
+            "price":{
+                "sale":64,
+                "curr":34500
+            }
+
+
+        }
+    ],
+    "prdList4":[
+        {
+            "thumb":"./asset/img/item.jpg",
+            "title":"Wide Cargo Half Denim Pants - 5COL",
+            "price":{
+                "sale":27,
+                "curr":37230
+            }
+        },
+        {
+            "thumb":"./asset/img/i02.webp",
+            "title":"언더오프",
+            "price":{
+                "sale":61,
+                "curr":14800
+            }
+        },
+        {
+            "thumb":"./asset/img/i03.webp",
+            "title":"어반디타입",
+            "price":{
+                "sale":10,
+                "curr":35100
+            }
+        },
+        {
+            "thumb":"./asset/img/i04.webp",
+            "title":"라이크더모스트",
+            "price":{
+                "sale":50,
+                "curr":19900
+            }
+        },
+        {
+            "thumb":"./asset/img/i05.webp",
+            "title":"커버낫",
+            "price":{
+                "sale":33,
+                "curr":32900
+            }
+        },
+        {
+            "thumb":"./asset/img/i06.webp",
+            "title":"엘리메노",
+            "price":{
+                "sale":52,
+                "curr":39900
+            }
+        },
+        {
+            "thumb":"./asset/img/i07.webp",
+            "title":"로라로라",
+            "price":{
+                "sale":15,
+                "curr":36550
+            }
+        },
+        {
+            "thumb":"./asset/img/i08.webp",
+            "title":"스파오",
+            "price":{
+                "sale":10,
+                "curr":17910
+            }
+        },
+        {
+            "thumb":"./asset/img/item.jpg",
+            "title":"Wide Cargo Half Denim Pants - 5COL",
+            "price":{
+                "sale":27,
+                "curr":37230
+            }
+        },
+        {
+            "thumb":"./asset/img/i02.webp",
+            "title":"언더오프",
+            "price":{
+                "sale":61,
+                "curr":14800
+            }
+        },
+        {
+            "thumb":"./asset/img/i03.webp",
+            "title":"어반디타입",
+            "price":{
+                "sale":10,
+                "curr":35100
+            }
+        },
+        {
+            "thumb":"./asset/img/i04.webp",
+            "title":"라이크더모스트",
+            "price":{
+                "sale":50,
+                "curr":19900
+            }
+        },
+        {
+            "thumb":"./asset/img/i05.webp",
+            "title":"커버낫",
+            "price":{
+                "sale":33,
+                "curr":32900
+            }
+        },
+        {
+            "thumb":"./asset/img/i06.webp",
+            "title":"엘리메노",
+            "price":{
+                "sale":52,
+                "curr":39900
+            }
+        },
+        {
+            "thumb":"./asset/img/i07.webp",
+            "title":"로라로라",
+            "price":{
+                "sale":15,
+                "curr":36550
+            }
+        },
+        {
+            "thumb":"./asset/img/i08.webp",
+            "title":"스파오",
+            "price":{
+                "sale":10,
+                "curr":17910
+            }
+        }
+    ]
+
+ }
